@@ -5,8 +5,8 @@
       "name": "msg",
       "type": "serviceBusTrigger",
       "direction": "in",
-      "queueName": "myinputqueue",
-      "connection": "notificationqueue1_SERVICEBUS"
+      "queueName": "notificationqueue ",
+      "connection": "connection2"
     }
   ]
 }
